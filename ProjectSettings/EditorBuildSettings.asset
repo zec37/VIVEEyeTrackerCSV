@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Samples/VIVE OpenXR Plugin/2.5.1/VIVE OpenXR Samples/Samples/RealisticHandInteraction/Demo/HandGrab_Main.unity
+    guid: 4a99723f080c6b246a074e8fcaa6632c
+  - enabled: 0
+    path: Assets/Samples/VIVE OpenXR Plugin/2.5.1/VIVE OpenXR Samples/Samples/RealisticHandInteraction/Demo/HandGrab_RealHand.unity
+    guid: 39fd5b1814485e4438801e3e9f2768ce
+  - enabled: 0
+    path: Assets/Samples/VIVE OpenXR Plugin/2.5.1/VIVE OpenXR Samples/Samples/RealisticHandInteraction/Demo/HandGrab_VirtualHand.unity
+    guid: 0116b7a6c85fca645b3c1edcc5d14e45
+  - enabled: 0
+    path: Assets/Samples/VIVE OpenXR Plugin/2.5.1/VIVE OpenXR Samples/Samples/CompositionLayer2/Scenes/CompositionLayerTest_HTCPassthrough.unity
+    guid: 6ea39460043c68849a19f298292267d9
+  - enabled: 0
+    path: Assets/Samples/VIVE OpenXR Plugin/2.5.1/VIVE OpenXR Samples/Samples/Passthrough/Scenes/Passthrough_Configuration.unity
+    guid: 37fafa14ce44e084c9515a88ebfae47c
+  - enabled: 0
+    path: Assets/Samples/VIVE OpenXR Plugin/2.5.1/VIVE OpenXR Samples/Samples/Passthrough/Scenes/Passthrough_Projection.unity
+    guid: 54e93e754cace0d41b757b26e1d916f6
+  - enabled: 0
+    path: Assets/Samples/VIVE OpenXR Plugin/2.5.1/VIVE OpenXR Samples/Samples/Input/OpenXRInput.unity
+    guid: 418af9d52d7202848b69e0f8a9afe5b5
+  - enabled: 0
+    path: Assets/Samples/VIVE OpenXR Plugin/2.5.1/VIVE OpenXR Samples/Samples/EyeTracker/EyeTracker.unity
+    guid: 2344ab9d663d25f4c95e72e96a84ad49
+  - enabled: 1
+    path: Assets/EyeTrackerDataCSV/EyeDataWrite.unity
+    guid: 207dc18cc0ca4c640a70400fe98647ca
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 2fb80ba4f9b1bed4ba108856b671c5a8, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 93f64fd9a86f1a147b744303639431ee, type: 2}
